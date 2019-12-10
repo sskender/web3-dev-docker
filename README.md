@@ -1,4 +1,4 @@
-# docker-node-dev
+# node-dev in docker
 Docker image for starting with Node, node-gyp, yarn, Python, make etc
 
 #### Build image
