@@ -31,3 +31,4 @@ RUN rm -rf /var/cache/apk/*
 RUN npm install --global node-gyp
 RUN npm install --global babel-cli
 RUN npm install --global nodemon
+RUN npm install --global web3
