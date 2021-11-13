@@ -1,4 +1,4 @@
-FROM node:12.13.0-alpine
+FROM node:lts-alpine3.14
 
 # environment variables
 ENV LANG C.UTF-8
