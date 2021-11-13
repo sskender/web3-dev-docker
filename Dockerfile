@@ -16,10 +16,8 @@ RUN apk --no-cache --virtual build-dependencies add \
     libffi-dev \
     make \
     openssl-dev \
-    python \
-    python-dev \
-    py-pip \
     python3 \
+    py3-pip \
     python3-dev \
     py3-pip \
     yarn \
